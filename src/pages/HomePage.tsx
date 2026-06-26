@@ -4,6 +4,7 @@ import Layout from '../components/layout/Layout';
 import Hero from '../components/home/Hero';
 import Features from '../components/home/Features';
 import HowItWorks from '../components/home/HowItWorks';
+import GuideVideo from '../components/home/GuideVideo';
 import Pricing from '../components/home/Pricing';
 import Testimonials from '../components/home/Testimonials';
 import FAQ from '../components/home/FAQ';
@@ -20,6 +21,7 @@ const HomePage: React.FC = () => {
       <Hero />
       <Features />
       <HowItWorks />
+      <GuideVideo />
       <Pricing />
       <Testimonials />
       <FAQ />
