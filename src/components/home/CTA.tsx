@@ -15,7 +15,7 @@ const CTAContainer = styled.div`
     left: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(circle at 20% 50%, rgba(0, 255, 0, 0.1) 0%, transparent 50%);
+    background: radial-gradient(circle at 20% 50%, rgba(0, 153, 0, 0.1) 0%, transparent 50%);
   }
   
   &::after {
@@ -25,7 +25,7 @@ const CTAContainer = styled.div`
     right: 0;
     width: 100%;
     height: 100%;
-    background: radial-gradient(circle at 80% 30%, rgba(0, 255, 0, 0.1) 0%, transparent 50%);
+    background: radial-gradient(circle at 80% 30%, rgba(0, 153, 0, 0.1) 0%, transparent 50%);
   }
 `;
 

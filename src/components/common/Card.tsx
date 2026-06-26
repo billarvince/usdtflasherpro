@@ -23,7 +23,7 @@ const CardContainer = styled.div<{ highlighted: boolean; clickable: boolean }>`
     highlighted &&
     `
     border: 2px solid var(--primary-color);
-    box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);
+    box-shadow: 0 0 20px rgba(0, 153, 0, 0.2);
   `}
   
   ${({ clickable }) =>

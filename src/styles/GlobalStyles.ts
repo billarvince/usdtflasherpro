@@ -2,12 +2,12 @@ import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
   :root {
-    --primary-color: #00ff00; /* Bright green */
-    --primary-dark: #008000; /* Darker green */
+    --primary-color: #009900; /* Dark green */
+    --primary-dark: #006400; /* Deeper green */
     --secondary-color: #000000; /* Black */
     --text-color: #ffffff; /* White */
     --text-secondary: #cccccc; /* Light gray */
-    --accent-color: #00cc00; /* Accent green */
+    --accent-color: #008000; /* Accent green */
     --background-dark: #0a0a0a; /* Very dark gray, almost black */
     --background-light: #1a1a1a; /* Dark gray */
     --success-color: #4caf50; /* Green */

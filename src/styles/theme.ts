@@ -2,12 +2,12 @@ import { DefaultTheme } from 'styled-components';
 
 const theme: DefaultTheme = {
   colors: {
-    primary: '#00ff00', // Bright green
-    primaryDark: '#008000', // Darker green
+    primary: '#009900', // Dark green
+    primaryDark: '#006400', // Deeper green
     secondary: '#000000', // Black
     textPrimary: '#ffffff', // White
     textSecondary: '#cccccc', // Light gray
-    accent: '#00cc00', // Accent green
+    accent: '#008000', // Accent green
     backgroundDark: '#0a0a0a', // Very dark gray, almost black
     backgroundLight: '#1a1a1a', // Dark gray
     success: '#4caf50', // Green

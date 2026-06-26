@@ -35,7 +35,7 @@ const IconContainer = styled.div`
   width: 70px;
   height: 70px;
   border-radius: 50%;
-  background-color: rgba(0, 255, 0, 0.1);
+  background-color: rgba(0, 153, 0, 0.1);
 `;
 
 const CardTitle = styled.h3`
